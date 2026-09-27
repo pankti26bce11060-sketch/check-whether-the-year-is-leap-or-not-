@@ -19,3 +19,6 @@ module 3 - time calculator & report : converts days into hours, minutes, and sec
 3. reliability : uses clear validation and deterministic calculations.
 4. maintainability : functions are maintained by responsibility.
 5. Error handling : non-integer and non-positive input are rejected with a useful message.
+# STYSTEM ACHITECTURE :
+Input → Validation → leap-year logic → days calculation → time conversion → result display.
+the system uses a simple layered flow . No database is required because the utility calculates result from the current input and does not need persistent storage.
