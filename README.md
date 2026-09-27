@@ -14,4 +14,7 @@ module 1 - input & validations : accept the year and verifies that it is positiv
 module 2 - leap-year checker : applies the standard leap-year rule: divisible by 400, or divisible by 4 but not by 100.
 module 3 - time calculator & report : converts days into hours, minutes, and seconds and displays a formatted result.
 # NON-FUNCTIONAL REQUIREMENTS :
-1.  
+1. usability : simple command line interaction.
+2. performance : calculations complete immediately for normal input.
+3. reliability : uses clear validation and deterministic calculations.
+4. maintainability : 
