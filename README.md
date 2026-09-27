@@ -17,4 +17,5 @@ module 3 - time calculator & report : converts days into hours, minutes, and sec
 1. usability : simple command line interaction.
 2. performance : calculations complete immediately for normal input.
 3. reliability : uses clear validation and deterministic calculations.
-4. maintainability : 
+4. maintainability : functions are maintained by responsibility.
+5. Error handling : non-integer and non-positive input are rejected with a useful message.
