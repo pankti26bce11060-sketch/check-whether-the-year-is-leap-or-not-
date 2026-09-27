@@ -22,3 +22,5 @@ module 3 - time calculator & report : converts days into hours, minutes, and sec
 # STYSTEM ACHITECTURE :
 Input → Validation → leap-year logic → days calculation → time conversion → result display.
 the system uses a simple layered flow . No database is required because the utility calculates result from the current input and does not need persistent storage.
+# FLOWCHART :
+
